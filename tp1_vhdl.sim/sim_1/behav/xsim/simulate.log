@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: FIN DE SIMULATION
+Time: 14 us  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: /home/fls3137a/tp1_vhdl/test_pulse_gen.vhd
+$finish called at time : 14 us : File "/home/fls3137a/tp1_vhdl/test_pulse_gen.vhd" Line 87
